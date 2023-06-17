@@ -1,0 +1,53 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\SOUKAINA\\source\\repos\\Chat\\ChatApi\\wwwroot\\3rdpartylicenses.txt",
+      "PackagePath": "staticwebassets\\3rdpartylicenses.txt"
+    },
+    {
+      "Id": "C:\\Users\\SOUKAINA\\source\\repos\\Chat\\ChatApi\\wwwroot\\assets\\images\\1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\SOUKAINA\\source\\repos\\Chat\\ChatApi\\wwwroot\\assets\\images\\logo.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\logo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SOUKAINA\\source\\repos\\Chat\\ChatApi\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\SOUKAINA\\source\\repos\\Chat\\ChatApi\\wwwroot\\main.2f6b90afe2c9c09a.js",
+      "PackagePath": "staticwebassets\\main.2f6b90afe2c9c09a.js"
+    },
+    {
+      "Id": "C:\\Users\\SOUKAINA\\source\\repos\\Chat\\ChatApi\\wwwroot\\polyfills.9a8492562561d6ca.js",
+      "PackagePath": "staticwebassets\\polyfills.9a8492562561d6ca.js"
+    },
+    {
+      "Id": "C:\\Users\\SOUKAINA\\source\\repos\\Chat\\ChatApi\\wwwroot\\runtime.0b141a59a92d7d9e.js",
+      "PackagePath": "staticwebassets\\runtime.0b141a59a92d7d9e.js"
+    },
+    {
+      "Id": "C:\\Users\\SOUKAINA\\source\\repos\\Chat\\ChatApi\\wwwroot\\styles.0496999015ff9b33.css",
+      "PackagePath": "staticwebassets\\styles.0496999015ff9b33.css"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.ChatApi.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.ChatApi.props",
+      "PackagePath": "build\\ChatApi.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.ChatApi.props",
+      "PackagePath": "buildMultiTargeting\\ChatApi.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.ChatApi.props",
+      "PackagePath": "buildTransitive\\ChatApi.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
